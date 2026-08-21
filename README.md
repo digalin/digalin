@@ -7,7 +7,7 @@
 </p>
 
 
-🌱 currently researching reproducibility and performance trade-offs across generative model architectures for computational biology
+🌱 currently researching performance trade-offs across generative models for computational biology
 
 
 
