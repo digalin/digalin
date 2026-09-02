@@ -1,7 +1,7 @@
 ## hi, i'm diego 👋
 
 * currently a 4th year cs engineering student at universidad de magallanes, punta arenas, chile.
-* interests: data science, machine learning, data engineering, hpc, software engineering
+* into data science and machine learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,mysql,postgres,sqlite,c,bash,linux,git,vscode,latex&perline=13" />
 </p>
