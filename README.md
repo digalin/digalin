@@ -7,9 +7,6 @@
 </p>
 
 
-🌱 currently researching performance trade-offs across generative models for computational biology
-
-
 
 
 <!--
